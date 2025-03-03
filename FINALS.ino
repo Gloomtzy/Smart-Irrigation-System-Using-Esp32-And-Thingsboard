@@ -4,10 +4,10 @@
 #include <PubSubClient.h>
 #include "DHT.h"
 
-#define WIFI_SSID "Coffee"
-#define WIFI_PASSWORD "Cilantro99@@"
+#define WIFI_SSID "Your WIFI"
+#define WIFI_PASSWORD "Your WIFI Password"
 
-#define TOKEN "LAHfyVyDlxqebAWTKTp2" // Access token for ThingsBoard Cloud
+#define TOKEN "Access Token from thingsboard" // Access token for ThingsBoard Cloud
 #define THINGSBOARD_SERVER "thingsboard.cloud"
 
 WiFiClient espClient;
